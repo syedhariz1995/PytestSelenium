@@ -99,3 +99,5 @@ def _capture_screenshot(file_name):
 
 # to get html reports use this syntax :
 # pytest --html folderName/htmlFile.html
+
+# test new comment for git
